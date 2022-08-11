@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello! I'm Damien!
+
+### I am currently a [Cloud Security Engineer](https://www.linkedin.com/in/damien-burks-445650a6/) and [Content Creator](https://www.damienjburks.com/). I am always looking for opportunities to collaborate and make an impact!
+
+Before you continue to read my bio, feel free to on Twitter: 
 
 <!--
 **damienjburks/damienjburks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://twitter.com/daycyberwox" target="blank"><img src="https://img.shields.io/twitter/follow/daycyberwox?logo=twitter&style=for-the-badge" alt="daycyberwox" /></a>
