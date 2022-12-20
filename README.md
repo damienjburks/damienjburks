@@ -1,6 +1,6 @@
 # Hello! I'm Damien!
 
-How am I?
+Who am I?
 ---
 
 I am currently a [Cloud Security Engineer](https://www.linkedin.com/in/damien-burks-445650a6/) and [Content Creator](https://www.damienjburks.com/). I am always looking for opportunities to collaborate and make an impact!
