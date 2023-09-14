@@ -10,7 +10,7 @@ I am currently a [Cloud Security Engineer](https://www.linkedin.com/in/damien-bu
 - 👯 I’m looking to collaborate on DevSecOps-related open source projects.
 - 💬 Ask me about **DevSecOps, DevOps, and Cloud Security**
 - 📫 How to reach me: **damien@damienjburks.com**
-- 😄 Pronouns: He/They
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cars, anime, and video games. If you like any of those, feel free to shoot me a message! I'd love to make new friends as well! 😄
 
 Skills and Languages
