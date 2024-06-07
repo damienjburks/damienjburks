@@ -1,4 +1,4 @@
-# Welcome! My name is [Damien](https://linktr.ee/damienjburks)
+# Welcome! My name is [Damien](https://linktr.ee/damienjburks)!
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/damienjburks)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-burks-445650a6/)
@@ -7,7 +7,7 @@
 
 ## Who Am I?
 
-Welcome to my GitHub Repository! I am a SVP of Cloud Security Engineering at Citi (officially), but my unofficial title is a Cloud DevSecOps Expert. I also am the Founder of [The DevSec Blueprint (DSB)](https://github.com/The-DevSec-Blueprint), Open Source Contributor, and content creator. I create content in various different forms like blog posts and articles, YouTube videos, and shorts or reels.
+Welcome to my GitHub Repository! I am a SVP of Cloud Security Engineering at Citi (officially), but my unofficial title (or what I call myself) is a _Cloud DevSecOps Expert_. I also am the Founder of [The DevSec Blueprint (DSB)](https://github.com/The-DevSec-Blueprint), Open Source Contributor, and content creator. I create content in various different forms like blog posts and articles, YouTube videos, and shorts or reels.
 
 ## Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
