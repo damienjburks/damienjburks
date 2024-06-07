@@ -7,7 +7,7 @@
 
 ## Who Am I? 🤔
 
-Welcome to my GitHub Repository! I am a SVP of Cloud Security Engineering at Citi (officially), but my unofficial title (or what I call myself) is a _Cloud DevSecOps Expert_. I also am the Founder of [The DevSec Blueprint (DSB)](https://github.com/The-DevSec-Blueprint), Open Source Contributor, and content creator. I create content in various different forms like blog posts and articles, YouTube videos, and shorts or reels.
+Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Citi (officially), but my unofficial title (or what I call myself) is a _Cloud DevSecOps Expert_. I also am the Founder of [The DevSec Blueprint (DSB)](https://github.com/The-DevSec-Blueprint), Open Source Contributor, and content creator. I create content in various forms like blog posts and articles, YouTube videos, and shorts or reels.  I am exceptionally passionate about Cloud Security and DevSecOps, and I enjoy teaching what I know and sharing tips and tricks on how to start a career securing the cloud!
 
 ## Languages, Tools, and Frameworks ⚙️
 <!-- For more icons please follow  https://github.com/devicons/devicon -->
@@ -54,7 +54,6 @@ Welcome to my GitHub Repository! I am a SVP of Cloud Security Engineering at Cit
 [![](https://raw.githubusercontent.com/damienjburks/damienjburks/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/damienjburks/damienjburks/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=damienjburks&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
-## Recent Activity 🧑‍💻
+## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
