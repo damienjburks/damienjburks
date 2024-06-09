@@ -56,9 +56,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/damienjburks/AWSome-Honey-Pot/pull/1) in [damienjburks/AWSome-Honey-Pot](https://github.com/damienjburks/AWSome-Honey-Pot)
-2. 💪 Opened PR [#1](https://github.com/damienjburks/AWSome-Honey-Pot/pull/1) in [damienjburks/AWSome-Honey-Pot](https://github.com/damienjburks/AWSome-Honey-Pot)
-3. ❌ Closed PR [#260](https://github.com/damienjburks/DataCop/pull/260) in [damienjburks/DataCop](https://github.com/damienjburks/DataCop)
-4. ❌ Closed PR [#275](https://github.com/damienjburks/DataCop/pull/275) in [damienjburks/DataCop](https://github.com/damienjburks/DataCop)
-5. ❌ Closed PR [#257](https://github.com/damienjburks/DataCop/pull/257) in [damienjburks/DataCop](https://github.com/damienjburks/DataCop)
+1. 🎉 Merged PR [#10](https://github.com/The-DevSec-Blueprint/dsb-digest/pull/10) in [The-DevSec-Blueprint/dsb-digest](https://github.com/The-DevSec-Blueprint/dsb-digest)
+2. 💪 Opened PR [#10](https://github.com/The-DevSec-Blueprint/dsb-digest/pull/10) in [The-DevSec-Blueprint/dsb-digest](https://github.com/The-DevSec-Blueprint/dsb-digest)
+3. 🎉 Merged PR [#1](https://github.com/damienjburks/AWSome-Honey-Pot/pull/1) in [damienjburks/AWSome-Honey-Pot](https://github.com/damienjburks/AWSome-Honey-Pot)
+4. 💪 Opened PR [#1](https://github.com/damienjburks/AWSome-Honey-Pot/pull/1) in [damienjburks/AWSome-Honey-Pot](https://github.com/damienjburks/AWSome-Honey-Pot)
+5. ❌ Closed PR [#260](https://github.com/damienjburks/DataCop/pull/260) in [damienjburks/DataCop](https://github.com/damienjburks/DataCop)
 <!--END_SECTION:activity-->
