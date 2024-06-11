@@ -28,11 +28,11 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 ## Latest YouTube Videos 📺
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Best Course To Use To Study for the AWS Security Specialty Exam! #aws #awscertification #infosec](https://www.youtube.com/watch?v=AQT8rXaN4Aw)
 - [Reasons To Use TutorialsDojo To Study for the AWS SCS #awscertification  #cybersecurity #aws](https://www.youtube.com/watch?v=PNRDt7ky9NA)
 - [Services To Remember for the AWS Security Specialty Exam #aws #awssecurity #awscertification #awsome](https://www.youtube.com/watch?v=T9bRWQBdUbs)
 - [Key Services To Focus On To Pass The AWS DevOps Engineer Professional Exam! #awscertified #devops](https://www.youtube.com/watch?v=GzZQg_SD3g0)
 - [What I Learned About The AWS Certified DevOps Professional Exam! #awscertified #devops #cloud #aws](https://www.youtube.com/watch?v=xdVlb03FLNg)
-- [DAST Scanning with OWASP ZAP and Docker](https://www.youtube.com/watch?v=j9vqvzBPVMw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCOSYuY_e_r5GtVdlCVwY83Q)
