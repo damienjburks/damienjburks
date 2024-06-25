@@ -56,9 +56,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/rishabkumar7/cloud-resume-api/pull/10) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-2. 🎉 Merged PR [#1](https://github.com/damienjburks/cloud-resume-challenge/pull/1) in [damienjburks/cloud-resume-challenge](https://github.com/damienjburks/cloud-resume-challenge)
-3. 💪 Opened PR [#1](https://github.com/damienjburks/cloud-resume-challenge/pull/1) in [damienjburks/cloud-resume-challenge](https://github.com/damienjburks/cloud-resume-challenge)
-4. 🗣 Commented on [#221](https://github.com/finos/common-cloud-controls/issues/221) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-5. ❗️ Closed issue [#219](https://github.com/finos/common-cloud-controls/issues/219) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+1. ❌ Closed PR [#2](https://github.com/damienjburks/common-cloud-controls/pull/2) in [damienjburks/common-cloud-controls](https://github.com/damienjburks/common-cloud-controls)
+2. 💪 Opened PR [#10](https://github.com/rishabkumar7/cloud-resume-api/pull/10) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+3. 🎉 Merged PR [#1](https://github.com/damienjburks/cloud-resume-challenge/pull/1) in [damienjburks/cloud-resume-challenge](https://github.com/damienjburks/cloud-resume-challenge)
+4. 💪 Opened PR [#1](https://github.com/damienjburks/cloud-resume-challenge/pull/1) in [damienjburks/cloud-resume-challenge](https://github.com/damienjburks/cloud-resume-challenge)
+5. 🗣 Commented on [#221](https://github.com/finos/common-cloud-controls/issues/221) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
 <!--END_SECTION:activity-->
