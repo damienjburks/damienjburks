@@ -56,9 +56,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#223](https://github.com/finos/common-cloud-controls/pull/223) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-2. ❌ Closed PR [#2](https://github.com/damienjburks/common-cloud-controls/pull/2) in [damienjburks/common-cloud-controls](https://github.com/damienjburks/common-cloud-controls)
-3. 💪 Opened PR [#10](https://github.com/rishabkumar7/cloud-resume-api/pull/10) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-4. 🎉 Merged PR [#1](https://github.com/damienjburks/cloud-resume-challenge/pull/1) in [damienjburks/cloud-resume-challenge](https://github.com/damienjburks/cloud-resume-challenge)
-5. 💪 Opened PR [#1](https://github.com/damienjburks/cloud-resume-challenge/pull/1) in [damienjburks/cloud-resume-challenge](https://github.com/damienjburks/cloud-resume-challenge)
+1. ❌ Closed PR [#11](https://github.com/The-DevSec-Blueprint/dsb-digest/pull/11) in [The-DevSec-Blueprint/dsb-digest](https://github.com/The-DevSec-Blueprint/dsb-digest)
+2. 💪 Opened PR [#223](https://github.com/finos/common-cloud-controls/pull/223) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+3. ❌ Closed PR [#2](https://github.com/damienjburks/common-cloud-controls/pull/2) in [damienjburks/common-cloud-controls](https://github.com/damienjburks/common-cloud-controls)
+4. 💪 Opened PR [#10](https://github.com/rishabkumar7/cloud-resume-api/pull/10) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+5. 🎉 Merged PR [#1](https://github.com/damienjburks/cloud-resume-challenge/pull/1) in [damienjburks/cloud-resume-challenge](https://github.com/damienjburks/cloud-resume-challenge)
 <!--END_SECTION:activity-->
