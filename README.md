@@ -7,7 +7,7 @@
 
 ## Who Am I? 🤔
 
-Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Citi (officially), but my unofficial title (or what I call myself) is a _Cloud DevSecOps Expert_. I am also the Founder of [The DevSec Blueprint (DSB)](https://github.com/The-DevSec-Blueprint), Open Source Contributor, and Content Creator. I create content in various forms like blog posts and articles, YouTube videos, and shorts or reels.  I am exceptionally passionate about Cloud Security and DevSecOps, and I enjoy teaching what I know and sharing tips and tricks on how to start a career securing the cloud!
+Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Citi (officially), but my unofficial title (or what I call myself) is a _Principal Cloud DevSecOps Engineer_. I am also the Founder of [The DevSec Blueprint (DSB)](https://github.com/The-DevSec-Blueprint), Open Source Contributor, and Content Creator. I create content in various forms like blog posts and articles, YouTube videos, and shorts or reels.  I am exceptionally passionate about Cloud Security and DevSecOps, and I enjoy teaching what I know and sharing tips and tricks on how to start a career securing the cloud!
 
 ## Languages, Tools, and Frameworks ⚙️
 <!-- For more icons please follow  https://github.com/devicons/devicon -->
