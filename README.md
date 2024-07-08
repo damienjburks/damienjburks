@@ -56,9 +56,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/finos/common-cloud-controls/issues/189) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+1. 💪 Opened PR [#243](https://github.com/finos/common-cloud-controls/pull/243) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
 2. 🗣 Commented on [#189](https://github.com/finos/common-cloud-controls/issues/189) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-3. 🎉 Merged PR [#18](https://github.com/The-DevSec-Blueprint/dsb-blogging-assistant/pull/18) in [The-DevSec-Blueprint/dsb-blogging-assistant](https://github.com/The-DevSec-Blueprint/dsb-blogging-assistant)
-4. ❌ Closed PR [#11](https://github.com/The-DevSec-Blueprint/dsb-digest/pull/11) in [The-DevSec-Blueprint/dsb-digest](https://github.com/The-DevSec-Blueprint/dsb-digest)
-5. 💪 Opened PR [#223](https://github.com/finos/common-cloud-controls/pull/223) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+3. 🗣 Commented on [#189](https://github.com/finos/common-cloud-controls/issues/189) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+4. 🎉 Merged PR [#18](https://github.com/The-DevSec-Blueprint/dsb-blogging-assistant/pull/18) in [The-DevSec-Blueprint/dsb-blogging-assistant](https://github.com/The-DevSec-Blueprint/dsb-blogging-assistant)
+5. ❌ Closed PR [#11](https://github.com/The-DevSec-Blueprint/dsb-digest/pull/11) in [The-DevSec-Blueprint/dsb-digest](https://github.com/The-DevSec-Blueprint/dsb-digest)
 <!--END_SECTION:activity-->
