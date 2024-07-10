@@ -58,7 +58,7 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#243](https://github.com/finos/common-cloud-controls/issues/243) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
 2. 🗣 Commented on [#243](https://github.com/finos/common-cloud-controls/issues/243) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-3. 💪 Opened PR [#3](https://github.com/damienjburks/common-cloud-controls/pull/3) in [damienjburks/common-cloud-controls](https://github.com/damienjburks/common-cloud-controls)
-4. 💪 Opened PR [#245](https://github.com/finos/common-cloud-controls/pull/245) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-5. 💪 Opened PR [#243](https://github.com/finos/common-cloud-controls/pull/243) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+3. 🗣 Commented on [#243](https://github.com/finos/common-cloud-controls/issues/243) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+4. 💪 Opened PR [#3](https://github.com/damienjburks/common-cloud-controls/pull/3) in [damienjburks/common-cloud-controls](https://github.com/damienjburks/common-cloud-controls)
+5. 💪 Opened PR [#245](https://github.com/finos/common-cloud-controls/pull/245) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
 <!--END_SECTION:activity-->
