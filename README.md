@@ -28,11 +28,11 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 ## Latest YouTube Videos 📺
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [A Day in the Life as a Cloud DevSecOps Engineer - AWS re:Inforce Edition &lpar;2024&rpar;](https://www.youtube.com/watch?v=5jxqikhHlw8)
 - [OWASP ZAP Explained! #owasp #zap #owasptop10 #cybersecurity #applicationsecurity #dast #pentesting](https://www.youtube.com/watch?v=JVUVu-l3Gac)
 - [How To Pass the AWS Solutions Architect - Associate &lpar;SAA-C03&rpar; With Flying Colors!](https://www.youtube.com/watch?v=o9QPhxInQFQ)
 - [Why You Should Use Whizlabs When Studying for the AWS Security Specialty Exam! #aws #awscertified](https://www.youtube.com/watch?v=CJLR2JmOvYg)
 - [Best Course To Use To Study for the AWS Security Specialty Exam! #aws #awscertification #infosec](https://www.youtube.com/watch?v=AQT8rXaN4Aw)
-- [Reasons To Use TutorialsDojo To Study for the AWS SCS #awscertification  #cybersecurity #aws](https://www.youtube.com/watch?v=PNRDt7ky9NA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCOSYuY_e_r5GtVdlCVwY83Q)
