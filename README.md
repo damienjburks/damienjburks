@@ -56,9 +56,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/2) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
-2. 💪 Opened PR [#2](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/2) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
-3. 🎉 Merged PR [#1](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/1) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
-4. 💪 Opened PR [#1](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/1) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
-5. ❗️ Opened issue [#315](https://github.com/finos/common-cloud-controls/issues/315) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+1. 🗣 Commented on [#315](https://github.com/finos/common-cloud-controls/issues/315) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+2. 🎉 Merged PR [#2](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/2) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
+3. 💪 Opened PR [#2](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/2) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
+4. 🎉 Merged PR [#1](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/1) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
+5. 💪 Opened PR [#1](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/1) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
 <!--END_SECTION:activity-->
