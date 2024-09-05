@@ -56,9 +56,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#331](https://github.com/finos/common-cloud-controls/issues/331) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-2. 🎉 Merged PR [#3](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/3) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
-3. 💪 Opened PR [#3](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/3) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
-4. ❗️ Opened issue [#13](https://github.com/The-DevSec-Blueprint/dsb-digest/issues/13) in [The-DevSec-Blueprint/dsb-digest](https://github.com/The-DevSec-Blueprint/dsb-digest)
-5. ❗️ Opened issue [#12](https://github.com/The-DevSec-Blueprint/dsb-digest/issues/12) in [The-DevSec-Blueprint/dsb-digest](https://github.com/The-DevSec-Blueprint/dsb-digest)
+1. 🗣 Commented on [#330](https://github.com/finos/common-cloud-controls/issues/330) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+2. ❗️ Opened issue [#331](https://github.com/finos/common-cloud-controls/issues/331) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+3. 🎉 Merged PR [#3](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/3) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
+4. 💪 Opened PR [#3](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io/pull/3) in [The-DevSec-Blueprint/devsecblueprint.github.io](https://github.com/The-DevSec-Blueprint/devsecblueprint.github.io)
+5. ❗️ Opened issue [#13](https://github.com/The-DevSec-Blueprint/dsb-digest/issues/13) in [The-DevSec-Blueprint/dsb-digest](https://github.com/The-DevSec-Blueprint/dsb-digest)
 <!--END_SECTION:activity-->
