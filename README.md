@@ -56,9 +56,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp/issues/3) in [The-DevSec-Blueprint/devsecops-course-in-gcp](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp)
-2. ❗️ Opened issue [#2](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp/issues/2) in [The-DevSec-Blueprint/devsecops-course-in-gcp](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp)
-3. ❗️ Opened issue [#1](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp/issues/1) in [The-DevSec-Blueprint/devsecops-course-in-gcp](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp)
-4. 🗣 Commented on [#330](https://github.com/finos/common-cloud-controls/issues/330) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-5. ❗️ Opened issue [#331](https://github.com/finos/common-cloud-controls/issues/331) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+1. ❗️ Opened issue [#334](https://github.com/finos/common-cloud-controls/issues/334) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+2. ❗️ Opened issue [#333](https://github.com/finos/common-cloud-controls/issues/333) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+3. ❗️ Opened issue [#3](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp/issues/3) in [The-DevSec-Blueprint/devsecops-course-in-gcp](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp)
+4. ❗️ Opened issue [#2](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp/issues/2) in [The-DevSec-Blueprint/devsecops-course-in-gcp](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp)
+5. ❗️ Opened issue [#1](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp/issues/1) in [The-DevSec-Blueprint/devsecops-course-in-gcp](https://github.com/The-DevSec-Blueprint/devsecops-course-in-gcp)
 <!--END_SECTION:activity-->
