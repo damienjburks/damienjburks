@@ -56,9 +56,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/The-DevSec-Blueprint/dsb-gcp-devsecops-infra/issues/4) in [The-DevSec-Blueprint/dsb-gcp-devsecops-infra](https://github.com/The-DevSec-Blueprint/dsb-gcp-devsecops-infra)
-2. 🗣 Commented on [#469](https://github.com/finos/common-cloud-controls/issues/469) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-3. 🗣 Commented on [#447](https://github.com/finos/common-cloud-controls/issues/447) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-4. ❗️ Opened issue [#469](https://github.com/finos/common-cloud-controls/issues/469) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-5. ❗️ Closed issue [#447](https://github.com/finos/common-cloud-controls/issues/447) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+1. 💪 Opened PR [#476](https://github.com/finos/common-cloud-controls/pull/476) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+2. ❗️ Opened issue [#4](https://github.com/The-DevSec-Blueprint/dsb-gcp-devsecops-infra/issues/4) in [The-DevSec-Blueprint/dsb-gcp-devsecops-infra](https://github.com/The-DevSec-Blueprint/dsb-gcp-devsecops-infra)
+3. 🗣 Commented on [#469](https://github.com/finos/common-cloud-controls/issues/469) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+4. 🗣 Commented on [#447](https://github.com/finos/common-cloud-controls/issues/447) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+5. ❗️ Opened issue [#469](https://github.com/finos/common-cloud-controls/issues/469) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
 <!--END_SECTION:activity-->
