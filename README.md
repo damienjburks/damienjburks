@@ -39,11 +39,11 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
-- [SAST Scanning with SonarQube and Docker](https://damienjburks.hashnode.dev/sast-scanning-with-sonarqube-and-docker)
-- [Mastering the AWS Security Specialty &lpar;SCS&rpar; Exam - A Quick Guide](https://damienjburks.hashnode.dev/mastering-the-aws-security-specialty-exam-quickly)
-- [My Journey to Passing the AWS Certified Solutions Architect Associate Exam](https://damienjburks.hashnode.dev/my-journey-to-passing-the-aws-saa)
-- [A Beginner&#39;s Guide to Contributing to Open Source Projects](https://damienjburks.hashnode.dev/a-beginners-guide-to-contributing-to-open-source)
-- [Kickstarting Your DevSecOps Career - The 4 Essential Certifications You Need](https://damienjburks.hashnode.dev/kickstarting-devsecops-career-with-4-certifications)
+- [SAST Scanning with SonarQube and Docker](https://damienjburks.com/sast-scanning-with-sonarqube-and-docker)
+- [Mastering the AWS Security Specialty &lpar;SCS&rpar; Exam - A Quick Guide](https://damienjburks.com/mastering-the-aws-security-specialty-exam-quickly)
+- [My Journey to Passing the AWS Certified Solutions Architect Associate Exam](https://damienjburks.com/my-journey-to-passing-the-aws-saa)
+- [A Beginner&#39;s Guide to Contributing to Open Source Projects](https://damienjburks.com/a-beginners-guide-to-contributing-to-open-source)
+- [Kickstarting Your DevSecOps Career - The 4 Essential Certifications You Need](https://damienjburks.com/kickstarting-devsecops-career-with-4-certifications)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://damienjburks.com)
 
