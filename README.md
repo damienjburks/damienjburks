@@ -56,9 +56,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/damienjburks/simple-todo-checker/pull/1) in [damienjburks/simple-todo-checker](https://github.com/damienjburks/simple-todo-checker)
-2. 💪 Opened PR [#1](https://github.com/damienjburks/simple-todo-checker/pull/1) in [damienjburks/simple-todo-checker](https://github.com/damienjburks/simple-todo-checker)
-3. 💪 Opened PR [#7](https://github.com/damienjburks/common-cloud-controls/pull/7) in [damienjburks/common-cloud-controls](https://github.com/damienjburks/common-cloud-controls)
-4. 🗣 Commented on [#476](https://github.com/finos/common-cloud-controls/issues/476) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-5. 💪 Opened PR [#476](https://github.com/finos/common-cloud-controls/pull/476) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+1. 🎉 Merged PR [#2](https://github.com/damienjburks/simple-todo-checker/pull/2) in [damienjburks/simple-todo-checker](https://github.com/damienjburks/simple-todo-checker)
+2. 💪 Opened PR [#2](https://github.com/damienjburks/simple-todo-checker/pull/2) in [damienjburks/simple-todo-checker](https://github.com/damienjburks/simple-todo-checker)
+3. 🎉 Merged PR [#1](https://github.com/damienjburks/simple-todo-checker/pull/1) in [damienjburks/simple-todo-checker](https://github.com/damienjburks/simple-todo-checker)
+4. 💪 Opened PR [#1](https://github.com/damienjburks/simple-todo-checker/pull/1) in [damienjburks/simple-todo-checker](https://github.com/damienjburks/simple-todo-checker)
+5. 💪 Opened PR [#7](https://github.com/damienjburks/common-cloud-controls/pull/7) in [damienjburks/common-cloud-controls](https://github.com/damienjburks/common-cloud-controls)
 <!--END_SECTION:activity-->
