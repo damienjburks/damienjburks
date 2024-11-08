@@ -28,11 +28,11 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 ## Latest YouTube Videos 📺
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [5 Tips to Get Hired as a Computer Science Grad or Student](https://www.youtube.com/watch?v=kYVNrHIZ85U)
 - [Securing AWS CDK with Trivy](https://www.youtube.com/watch?v=DsA7fbO6Zew)
 - [How I Built A DevSecOps Homelab For Under $350](https://www.youtube.com/watch?v=3612XpqUTfc)
 - [How I Passed The Google Cloud Associate Cloud Engineer &lpar;ACE&rpar; Exam!](https://www.youtube.com/watch?v=0ANd2K0MM44)
 - [How Passing the CompTIA Security+ Changed My Life!](https://www.youtube.com/watch?v=6IW1HQD2R5g)
-- [A Day in the Life as a Cloud DevSecOps Engineer - AWS re:Inforce Edition &lpar;2024&rpar;](https://www.youtube.com/watch?v=5jxqikhHlw8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCOSYuY_e_r5GtVdlCVwY83Q)
