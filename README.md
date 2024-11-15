@@ -23,6 +23,7 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" height="50"/>
 </p>
 
 ## Latest YouTube Videos 📺
