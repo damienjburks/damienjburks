@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/8) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-2. 💪 Opened PR [#7](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/7) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-3. ❗️ Closed issue [#6](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/6) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-4. ❗️ Opened issue [#6](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/6) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-5. 🎉 Merged PR [#23](https://github.com/The-DevSec-Blueprint/dsb-blogging-assistant/pull/23) in [The-DevSec-Blueprint/dsb-blogging-assistant](https://github.com/The-DevSec-Blueprint/dsb-blogging-assistant)
+1. 🎉 Merged PR [#10](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/10) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+2. 💪 Opened PR [#10](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/10) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+3. ❗️ Opened issue [#8](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/8) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+4. 💪 Opened PR [#7](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/7) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+5. ❗️ Closed issue [#6](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/6) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
 <!--END_SECTION:activity-->
