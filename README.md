@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/7) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-2. 💪 Opened PR [#611](https://github.com/finos/common-cloud-controls/pull/611) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-3. 🎉 Merged PR [#604](https://github.com/finos/common-cloud-controls/pull/604) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-4. 🗣 Commented on [#601](https://github.com/finos/common-cloud-controls/issues/601) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-5. 🗣 Commented on [#604](https://github.com/finos/common-cloud-controls/issues/604) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+1. 🎉 Merged PR [#11](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/11) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+2. 💪 Opened PR [#11](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/11) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+3. 🎉 Merged PR [#7](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/7) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+4. 💪 Opened PR [#611](https://github.com/finos/common-cloud-controls/pull/611) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+5. 🎉 Merged PR [#604](https://github.com/finos/common-cloud-controls/pull/604) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
 <!--END_SECTION:activity-->
