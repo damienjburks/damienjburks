@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/The-DevSec-Blueprint/discord-bot/issues/2) in [The-DevSec-Blueprint/discord-bot](https://github.com/The-DevSec-Blueprint/discord-bot)
-2. 🎉 Merged PR [#622](https://github.com/finos/common-cloud-controls/pull/622) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-3. 🎉 Merged PR [#625](https://github.com/finos/common-cloud-controls/pull/625) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-4. ❗️ Opened issue [#1](https://github.com/The-DevSec-Blueprint/discord-bot/issues/1) in [The-DevSec-Blueprint/discord-bot](https://github.com/The-DevSec-Blueprint/discord-bot)
-5. ❗️ Opened issue [#13](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/13) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+1. ❗️ Closed issue [#1](https://github.com/The-DevSec-Blueprint/discord-bot/issues/1) in [The-DevSec-Blueprint/discord-bot](https://github.com/The-DevSec-Blueprint/discord-bot)
+2. 🎉 Merged PR [#3](https://github.com/The-DevSec-Blueprint/discord-bot/pull/3) in [The-DevSec-Blueprint/discord-bot](https://github.com/The-DevSec-Blueprint/discord-bot)
+3. 💪 Opened PR [#3](https://github.com/The-DevSec-Blueprint/discord-bot/pull/3) in [The-DevSec-Blueprint/discord-bot](https://github.com/The-DevSec-Blueprint/discord-bot)
+4. ❗️ Opened issue [#2](https://github.com/The-DevSec-Blueprint/discord-bot/issues/2) in [The-DevSec-Blueprint/discord-bot](https://github.com/The-DevSec-Blueprint/discord-bot)
+5. 🎉 Merged PR [#622](https://github.com/finos/common-cloud-controls/pull/622) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
 <!--END_SECTION:activity-->
