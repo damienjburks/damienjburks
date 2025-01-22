@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/16) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-2. ❗️ Closed issue [#19](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/19) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-3. ❗️ Opened issue [#20](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/20) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-4. 🗣 Commented on [#16](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/16) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-5. 🎉 Merged PR [#527](https://github.com/finos/common-cloud-controls/pull/527) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+1. ❗️ Closed issue [#16](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/16) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+2. 🎉 Merged PR [#21](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/21) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+3. 🗣 Commented on [#16](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/16) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+4. ❗️ Closed issue [#19](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/19) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+5. ❗️ Opened issue [#20](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/20) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
 <!--END_SECTION:activity-->
