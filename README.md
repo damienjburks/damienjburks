@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#28](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/28) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-2. 🎉 Merged PR [#29](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/29) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-3. 💪 Opened PR [#29](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/29) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-4. ❗️ Opened issue [#28](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/28) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-5. ❗️ Closed issue [#23](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/23) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+1. ❗️ Opened issue [#10](https://github.com/The-DevSec-Blueprint/discord-bot/issues/10) in [The-DevSec-Blueprint/discord-bot](https://github.com/The-DevSec-Blueprint/discord-bot)
+2. ❗️ Opened issue [#9](https://github.com/The-DevSec-Blueprint/discord-bot/issues/9) in [The-DevSec-Blueprint/discord-bot](https://github.com/The-DevSec-Blueprint/discord-bot)
+3. ❗️ Opened issue [#8](https://github.com/The-DevSec-Blueprint/discord-bot/issues/8) in [The-DevSec-Blueprint/discord-bot](https://github.com/The-DevSec-Blueprint/discord-bot)
+4. ❗️ Closed issue [#28](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/28) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+5. 🎉 Merged PR [#29](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/29) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
 <!--END_SECTION:activity-->
