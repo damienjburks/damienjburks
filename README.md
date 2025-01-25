@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/23) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-2. 🗣 Commented on [#15](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/15) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-3. ❗️ Closed issue [#26](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/26) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-4. 🎉 Merged PR [#27](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/27) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
-5. 💪 Opened PR [#27](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/27) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+1. 💪 Opened PR [#29](https://github.com/The-DevSec-Blueprint/devsecblueprint/pull/29) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+2. ❗️ Opened issue [#28](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/28) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+3. ❗️ Closed issue [#23](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/23) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+4. 🗣 Commented on [#15](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/15) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
+5. ❗️ Closed issue [#26](https://github.com/The-DevSec-Blueprint/devsecblueprint/issues/26) in [The-DevSec-Blueprint/devsecblueprint](https://github.com/The-DevSec-Blueprint/devsecblueprint)
 <!--END_SECTION:activity-->
