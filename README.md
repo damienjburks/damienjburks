@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/devsecblueprint/devsecblueprint/issues/32) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. ❗️ Closed issue [#20](https://github.com/devsecblueprint/devsecblueprint/issues/20) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-3. ❗️ Closed issue [#24](https://github.com/devsecblueprint/devsecblueprint/issues/24) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. 🎉 Merged PR [#30](https://github.com/devsecblueprint/devsecblueprint/pull/30) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. 🗣 Commented on [#12](https://github.com/devsecblueprint/devsecblueprint/issues/12) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. ❗️ Closed issue [#11](https://github.com/devsecblueprint/discord-bot/issues/11) in [devsecblueprint/discord-bot](https://github.com/devsecblueprint/discord-bot)
+2. 🎉 Merged PR [#12](https://github.com/devsecblueprint/discord-bot/pull/12) in [devsecblueprint/discord-bot](https://github.com/devsecblueprint/discord-bot)
+3. 💪 Opened PR [#12](https://github.com/devsecblueprint/discord-bot/pull/12) in [devsecblueprint/discord-bot](https://github.com/devsecblueprint/discord-bot)
+4. ❗️ Opened issue [#11](https://github.com/devsecblueprint/discord-bot/issues/11) in [devsecblueprint/discord-bot](https://github.com/devsecblueprint/discord-bot)
+5. ❗️ Opened issue [#32](https://github.com/devsecblueprint/devsecblueprint/issues/32) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
