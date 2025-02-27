@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/devsecblueprint/python-fastapi/pull/1) in [devsecblueprint/python-fastapi](https://github.com/devsecblueprint/python-fastapi)
-2. 🎉 Merged PR [#2](https://github.com/devsecblueprint/python-fastapi/pull/2) in [devsecblueprint/python-fastapi](https://github.com/devsecblueprint/python-fastapi)
-3. 🗣 Commented on [#37](https://github.com/devsecblueprint/devsecblueprint/issues/37) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. ❗️ Closed issue [#8](https://github.com/devsecblueprint/devsecblueprint/issues/8) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. 🎉 Merged PR [#9](https://github.com/devsecblueprint/devsecblueprint/pull/9) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. 🎉 Merged PR [#3](https://github.com/devsecblueprint/python-fastapi/pull/3) in [devsecblueprint/python-fastapi](https://github.com/devsecblueprint/python-fastapi)
+2. ❌ Closed PR [#1](https://github.com/devsecblueprint/python-fastapi/pull/1) in [devsecblueprint/python-fastapi](https://github.com/devsecblueprint/python-fastapi)
+3. 🎉 Merged PR [#2](https://github.com/devsecblueprint/python-fastapi/pull/2) in [devsecblueprint/python-fastapi](https://github.com/devsecblueprint/python-fastapi)
+4. 🗣 Commented on [#37](https://github.com/devsecblueprint/devsecblueprint/issues/37) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+5. ❗️ Closed issue [#8](https://github.com/devsecblueprint/devsecblueprint/issues/8) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
