@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/devsecblueprint/devsecblueprint/issues/49) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. ❗️ Closed issue [#48](https://github.com/devsecblueprint/devsecblueprint/issues/48) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-3. 🗣 Commented on [#48](https://github.com/devsecblueprint/devsecblueprint/issues/48) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. ❗️ Opened issue [#48](https://github.com/devsecblueprint/devsecblueprint/issues/48) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. ❗️ Opened issue [#47](https://github.com/devsecblueprint/devsecblueprint/issues/47) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. 🗣 Commented on [#45](https://github.com/devsecblueprint/devsecblueprint/issues/45) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. ❗️ Opened issue [#49](https://github.com/devsecblueprint/devsecblueprint/issues/49) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+3. ❗️ Closed issue [#48](https://github.com/devsecblueprint/devsecblueprint/issues/48) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+4. 🗣 Commented on [#48](https://github.com/devsecblueprint/devsecblueprint/issues/48) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+5. ❗️ Opened issue [#48](https://github.com/devsecblueprint/devsecblueprint/issues/48) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
