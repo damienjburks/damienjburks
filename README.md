@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#243](https://github.com/learntocloud/learn-to-cloud/pull/243) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-2. 🗣 Commented on [#242](https://github.com/learntocloud/learn-to-cloud/issues/242) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-3. ❗️ Opened issue [#242](https://github.com/learntocloud/learn-to-cloud/issues/242) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-4. ❗️ Closed issue [#25](https://github.com/devsecblueprint/devsecblueprint/issues/25) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. 🎉 Merged PR [#50](https://github.com/devsecblueprint/devsecblueprint/pull/50) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. 💪 Opened PR [#731](https://github.com/finos/common-cloud-controls/pull/731) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+2. 💪 Opened PR [#243](https://github.com/learntocloud/learn-to-cloud/pull/243) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 🗣 Commented on [#242](https://github.com/learntocloud/learn-to-cloud/issues/242) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. ❗️ Opened issue [#242](https://github.com/learntocloud/learn-to-cloud/issues/242) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. ❗️ Closed issue [#25](https://github.com/devsecblueprint/devsecblueprint/issues/25) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
