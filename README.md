@@ -57,9 +57,9 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#49](https://github.com/devsecblueprint/devsecblueprint/issues/49) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. 💪 Opened PR [#57](https://github.com/devsecblueprint/devsecblueprint/pull/57) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-3. 🎉 Merged PR [#56](https://github.com/devsecblueprint/devsecblueprint/pull/56) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. 🗣 Commented on [#56](https://github.com/devsecblueprint/devsecblueprint/issues/56) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. ❗️ Opened issue [#55](https://github.com/devsecblueprint/devsecblueprint/issues/55) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. 🗣 Commented on [#58](https://github.com/devsecblueprint/devsecblueprint/issues/58) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. ❗️ Closed issue [#49](https://github.com/devsecblueprint/devsecblueprint/issues/49) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+3. 💪 Opened PR [#57](https://github.com/devsecblueprint/devsecblueprint/pull/57) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+4. 🎉 Merged PR [#56](https://github.com/devsecblueprint/devsecblueprint/pull/56) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+5. 🗣 Commented on [#56](https://github.com/devsecblueprint/devsecblueprint/issues/56) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
