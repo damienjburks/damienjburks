@@ -29,8 +29,8 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 ## Latest YouTube Videos 📺
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Career Pathway to DevSecOps Engineer &lpar;Full Breakdown&rpar;](https://www.youtube.com/watch?v=5SJbCkCrlbc)
-- [Career Pathway to Cloud Security Engineer &lpar;Full Breakdown&rpar;](https://www.youtube.com/watch?v=5WkHZ_jzvZ0)
+- [How to Go from Help Desk to DevSecOps Engineer &lpar;Step-by-Step Path&rpar;](https://www.youtube.com/watch?v=5SJbCkCrlbc)
+- [How to Go from IT Support to Cloud Security Engineer &lpar;Step-by-Step Guide&rpar;](https://www.youtube.com/watch?v=5WkHZ_jzvZ0)
 - [The Best Free Cybersecurity Roadmap &lpar;Zero to Hero Guide&rpar;](https://www.youtube.com/watch?v=0SjNKx4GGZM)
 - [How to Become a Cloud Security Engineer with Azure Certifications](https://www.youtube.com/watch?v=8Pz6MC9Alt4)
 - [How to Become a Cloud Security Engineer with GCP Certifications](https://www.youtube.com/watch?v=3290ejyWs_A)
