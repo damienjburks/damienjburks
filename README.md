@@ -40,11 +40,11 @@ Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Ci
 
 ## Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
-- [SAST Scanning with SonarQube and Docker](https://damienjburks.com/sast-scanning-with-sonarqube-and-docker)
-- [Mastering the AWS Security Specialty &lpar;SCS&rpar; Exam - A Quick Guide](https://damienjburks.com/mastering-the-aws-security-specialty-exam-quickly)
-- [My Journey to Passing the AWS Certified Solutions Architect Associate Exam](https://damienjburks.com/my-journey-to-passing-the-aws-saa)
-- [A Beginner&#39;s Guide to Contributing to Open Source Projects](https://damienjburks.com/a-beginners-guide-to-contributing-to-open-source)
-- [Kickstarting Your DevSecOps Career - The 4 Essential Certifications You Need](https://damienjburks.com/kickstarting-devsecops-career-with-4-certifications)
+- [SAST Scanning with SonarQube and Docker](https://dev.to/damienjburks/sast-scanning-with-sonarqube-and-docker-4cp7)
+- [Mastering the AWS Security Specialty &lpar;SCS&rpar; Exam - A Quick Guide](https://dev.to/aws-builders/mastering-the-aws-security-specialty-scs-exam-a-quick-guide-2go0)
+- [My Journey to Passing the AWS Certified Solutions Architect Associate Exam](https://dev.to/aws-builders/my-journey-to-passing-the-aws-certified-solutions-architect-associate-exam-de)
+- [A Beginner&#39;s Guide to Contributing to Open Source Projects](https://dev.to/damienjburks/a-beginners-guide-to-contributing-to-open-source-projects-4elc)
+- [Kickstarting Your DevSecOps Career - The 4 Essential Certifications You Need](https://dev.to/damienjburks/kickstarting-your-devsecops-career-the-4-essential-certifications-you-need-3el3)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://damienjburks.com)
 
