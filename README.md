@@ -7,7 +7,11 @@
 
 ## Who Am I? 🤔
 
-Welcome to my GitHub Repository! I am an SVP of Cloud Security Engineering at Citi (officially), but my unofficial title (or what I call myself) is a _Principal Cloud DevSecOps Engineer_. I am also the Founder of [The DevSec Blueprint (DSB)](https://github.com/devsecblueprint), Open Source Contributor, and Content Creator. I create content in various forms like blog posts and articles, YouTube videos, and shorts or reels.  I am exceptionally passionate about Cloud Security and DevSecOps, and I enjoy teaching what I know and sharing tips and tricks on how to start a career securing the cloud!
+Hey there, I’m Damien — a Cloud Security & DevSecOps Engineer, Open Source Contributor, and Founder of [The DevSec Blueprint (DSB)](https://github.com/devsecblueprint). I'm deeply passionate about building secure infrastructure, automating security, and making cloud-native security easier to understand and apply.
+
+I regularly share content on YouTube, write technical blogs, contribute to open-source, and mentor folks breaking into security. Whether you're here to learn, collaborate, or get inspired — welcome to my corner of the internet. 🙌🏽
+
+If you want to learn more about me and what it is that I do, please check out my website: [Damien Burks](https://damienjburks.com)
 
 ## Languages, Tools, and Frameworks ⚙️
 <!-- For more icons please follow  https://github.com/devicons/devicon -->
