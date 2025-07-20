@@ -61,9 +61,9 @@ If you want to learn more about me and what it is that I do, please check out my
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#828](https://github.com/finos/common-cloud-controls/pull/828) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-2. 🎉 Merged PR [#829](https://github.com/finos/common-cloud-controls/pull/829) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-3. 💪 Opened PR [#829](https://github.com/finos/common-cloud-controls/pull/829) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-4. 💪 Opened PR [#828](https://github.com/finos/common-cloud-controls/pull/828) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
-5. 🗣 Commented on [#243](https://github.com/learntocloud/learn-to-cloud/issues/243) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+1. ❗️ Opened issue [#66](https://github.com/devsecblueprint/devsecblueprint/issues/66) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. ❗️ Opened issue [#65](https://github.com/devsecblueprint/devsecblueprint/issues/65) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+3. 🎉 Merged PR [#828](https://github.com/finos/common-cloud-controls/pull/828) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+4. 🎉 Merged PR [#829](https://github.com/finos/common-cloud-controls/pull/829) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+5. 💪 Opened PR [#829](https://github.com/finos/common-cloud-controls/pull/829) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
 <!--END_SECTION:activity-->
