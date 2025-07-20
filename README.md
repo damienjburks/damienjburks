@@ -61,9 +61,9 @@ If you want to learn more about me and what it is that I do, please check out my
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/devsecblueprint/the-herald/issues/26) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-2. ❗️ Opened issue [#25](https://github.com/devsecblueprint/the-herald/issues/25) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-3. ❗️ Opened issue [#66](https://github.com/devsecblueprint/devsecblueprint/issues/66) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. ❗️ Opened issue [#65](https://github.com/devsecblueprint/devsecblueprint/issues/65) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. 🎉 Merged PR [#828](https://github.com/finos/common-cloud-controls/pull/828) in [finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
+1. ❗️ Closed issue [#25](https://github.com/devsecblueprint/the-herald/issues/25) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+2. 🎉 Merged PR [#27](https://github.com/devsecblueprint/the-herald/pull/27) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+3. 💪 Opened PR [#27](https://github.com/devsecblueprint/the-herald/pull/27) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+4. ❗️ Opened issue [#26](https://github.com/devsecblueprint/the-herald/issues/26) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+5. ❗️ Opened issue [#25](https://github.com/devsecblueprint/the-herald/issues/25) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
 <!--END_SECTION:activity-->
