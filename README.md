@@ -61,9 +61,9 @@ If you want to learn more about me and what it is that I do, please check out my
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/devsecblueprint/the-herald/issues/25) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-2. 🎉 Merged PR [#27](https://github.com/devsecblueprint/the-herald/pull/27) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-3. 💪 Opened PR [#27](https://github.com/devsecblueprint/the-herald/pull/27) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-4. ❗️ Opened issue [#26](https://github.com/devsecblueprint/the-herald/issues/26) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-5. ❗️ Opened issue [#25](https://github.com/devsecblueprint/the-herald/issues/25) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+1. ❗️ Opened issue [#33](https://github.com/devsecblueprint/the-herald/issues/33) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+2. ❗️ Closed issue [#26](https://github.com/devsecblueprint/the-herald/issues/26) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+3. ❗️ Closed issue [#25](https://github.com/devsecblueprint/the-herald/issues/25) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+4. 🎉 Merged PR [#27](https://github.com/devsecblueprint/the-herald/pull/27) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+5. 💪 Opened PR [#27](https://github.com/devsecblueprint/the-herald/pull/27) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
 <!--END_SECTION:activity-->
