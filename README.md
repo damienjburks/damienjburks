@@ -61,9 +61,9 @@ If you want to learn more about me and what it is that I do, please check out my
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/devsecblueprint/the-herald/pull/29) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-2. 🎉 Merged PR [#28](https://github.com/devsecblueprint/the-herald/pull/28) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-3. 🎉 Merged PR [#30](https://github.com/devsecblueprint/the-herald/pull/30) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-4. 🎉 Merged PR [#31](https://github.com/devsecblueprint/the-herald/pull/31) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-5. 🎉 Merged PR [#32](https://github.com/devsecblueprint/the-herald/pull/32) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+1. 🎉 Merged PR [#1](https://github.com/damienjburks/smurks-kitchen-journal/pull/1) in [damienjburks/smurks-kitchen-journal](https://github.com/damienjburks/smurks-kitchen-journal)
+2. 🗣 Commented on [#1](https://github.com/damienjburks/smurks-kitchen-journal/issues/1) in [damienjburks/smurks-kitchen-journal](https://github.com/damienjburks/smurks-kitchen-journal)
+3. 🎉 Merged PR [#29](https://github.com/devsecblueprint/the-herald/pull/29) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+4. 🎉 Merged PR [#28](https://github.com/devsecblueprint/the-herald/pull/28) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+5. 🎉 Merged PR [#30](https://github.com/devsecblueprint/the-herald/pull/30) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
 <!--END_SECTION:activity-->
