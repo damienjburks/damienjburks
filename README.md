@@ -62,7 +62,7 @@ If you want to learn more about me and what it is that I do, please check out my
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#54](https://github.com/devsecblueprint/devsecblueprint/issues/54) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. 🎉 Merged PR [#71](https://github.com/devsecblueprint/devsecblueprint/pull/71) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. 💪 Opened PR [#71](https://github.com/devsecblueprint/devsecblueprint/pull/71) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 3. 💪 Opened PR [#71](https://github.com/devsecblueprint/devsecblueprint/pull/71) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 4. 🎉 Merged PR [#70](https://github.com/devsecblueprint/devsecblueprint/pull/70) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 5. 🎉 Merged PR [#69](https://github.com/devsecblueprint/devsecblueprint/pull/69) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
