@@ -61,9 +61,9 @@ If you want to learn more about me and what it is that I do, please check out my
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com/devsecblueprint/devsecblueprint/issues/43) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. 💪 Opened PR [#73](https://github.com/devsecblueprint/devsecblueprint/pull/73) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-3. 💪 Opened PR [#71](https://github.com/devsecblueprint/devsecblueprint/pull/71) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. 🎉 Merged PR [#70](https://github.com/devsecblueprint/devsecblueprint/pull/70) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. 🎉 Merged PR [#69](https://github.com/devsecblueprint/devsecblueprint/pull/69) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. 🗣 Commented on [#2](https://github.com/damienjburks/screenshot-cleaner/issues/2) in [damienjburks/screenshot-cleaner](https://github.com/damienjburks/screenshot-cleaner)
+2. 🗣 Commented on [#3](https://github.com/damienjburks/screenshot-cleaner/issues/3) in [damienjburks/screenshot-cleaner](https://github.com/damienjburks/screenshot-cleaner)
+3. 🗣 Commented on [#4](https://github.com/damienjburks/screenshot-cleaner/issues/4) in [damienjburks/screenshot-cleaner](https://github.com/damienjburks/screenshot-cleaner)
+4. 🗣 Commented on [#5](https://github.com/damienjburks/screenshot-cleaner/issues/5) in [damienjburks/screenshot-cleaner](https://github.com/damienjburks/screenshot-cleaner)
+5. 🗣 Commented on [#1](https://github.com/damienjburks/screenshot-cleaner/issues/1) in [damienjburks/screenshot-cleaner](https://github.com/damienjburks/screenshot-cleaner)
 <!--END_SECTION:activity-->
