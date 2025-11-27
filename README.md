@@ -7,11 +7,11 @@
 
 ## Who Am I? 🤔
 
-Hey there, I’m Damien — a Cloud Security & DevSecOps Engineer, Open Source Contributor, and Founder of [The DevSec Blueprint (DSB)](https://github.com/devsecblueprint). I'm deeply passionate about building secure infrastructure, automating security, and making cloud-native security easier to understand and apply.
+Hey there, I’m Damien — a Cloud Security & DevSecOps Engineer, LinkedIn Learning Instructor, Open Source Contributor, and Founder of [The DevSec Blueprint (DSB)](https://devsecblueprint.com). I'm deeply passionate about building secure infrastructure, automating security, and making cloud-native security easier to understand and apply.
 
-I regularly share content on YouTube, write technical blogs, contribute to open-source, and mentor folks breaking into security. Whether you're here to learn, collaborate, or get inspired — welcome to my corner of the internet. 🙌🏽
+I regularly share content on YouTube, write technical blogs, contribute to open source, and mentor folks breaking into security. Whether you're here to learn, collaborate, or get inspired — welcome to my corner of the internet. 🙌🏽
 
-If you want to learn more about me and what it is that I do, please check out my website: [Damien Burks](https://damienjburks.com)
+If you want to learn more about me and what I do, check out my website: [Damien Burks](https://damienjburks.com)
 
 ## Languages, Tools, and Frameworks ⚙️
 <!-- For more icons please follow  https://github.com/devicons/devicon -->
