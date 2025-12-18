@@ -44,11 +44,11 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 
 ## Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
-- [SAST Scanning with SonarQube and Docker](https://dev.to/damienjburks/sast-scanning-with-sonarqube-and-docker-4cp7)
-- [Mastering the AWS Security Specialty &lpar;SCS&rpar; Exam - A Quick Guide](https://dev.to/aws-builders/mastering-the-aws-security-specialty-scs-exam-a-quick-guide-2go0)
-- [My Journey to Passing the AWS Certified Solutions Architect Associate Exam](https://dev.to/aws-builders/my-journey-to-passing-the-aws-certified-solutions-architect-associate-exam-de)
-- [A Beginner&#39;s Guide to Contributing to Open Source Projects](https://dev.to/damienjburks/a-beginners-guide-to-contributing-to-open-source-projects-4elc)
-- [Kickstarting Your DevSecOps Career - The 4 Essential Certifications You Need](https://dev.to/damienjburks/kickstarting-your-devsecops-career-the-4-essential-certifications-you-need-3el3)
+- [Prevention-First Cloud Security: Escaping Alert Fatigue for Good using Turbot](https://dev.to/damienjburks/prevention-first-cloud-security-escaping-alert-fatigue-for-good-using-turbot-4oj2)
+- [Test Blog Post](https://dev.to/damienjburks/test-blog-post-iom)
+- [Backward Compatibility Test](https://dev.to/damienjburks/backward-compatibility-test-a8p)
+- [Pattern Test](https://dev.to/damienjburks/pattern-test-hfp)
+- [Deprecation Test](https://dev.to/damienjburks/deprecation-test-3jag)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://damienjburks.com)
 
