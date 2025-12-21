@@ -61,9 +61,9 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/devsecblueprint/dsb-blogging-assistant/issues/15) in [devsecblueprint/dsb-blogging-assistant](https://github.com/devsecblueprint/dsb-blogging-assistant)
-2. ❗️ Closed issue [#14](https://github.com/devsecblueprint/dsb-blogging-assistant/issues/14) in [devsecblueprint/dsb-blogging-assistant](https://github.com/devsecblueprint/dsb-blogging-assistant)
+1. 🗣 Commented on [#78](https://github.com/devsecblueprint/devsecblueprint/issues/78) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. ❗️ Assigned issue [#78](https://github.com/devsecblueprint/devsecblueprint/issues/78) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 3. ❗️ Closed issue [#15](https://github.com/devsecblueprint/dsb-blogging-assistant/issues/15) in [devsecblueprint/dsb-blogging-assistant](https://github.com/devsecblueprint/dsb-blogging-assistant)
 4. ❗️ Closed issue [#14](https://github.com/devsecblueprint/dsb-blogging-assistant/issues/14) in [devsecblueprint/dsb-blogging-assistant](https://github.com/devsecblueprint/dsb-blogging-assistant)
-5. ❌ Closed PR [#27](https://github.com/devsecblueprint/dsb-blogging-assistant/pull/27) in [devsecblueprint/dsb-blogging-assistant](https://github.com/devsecblueprint/dsb-blogging-assistant)
+5. ❗️ Closed issue [#15](https://github.com/devsecblueprint/dsb-blogging-assistant/issues/15) in [devsecblueprint/dsb-blogging-assistant](https://github.com/devsecblueprint/dsb-blogging-assistant)
 <!--END_SECTION:activity-->
