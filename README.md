@@ -33,11 +33,11 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 ## Latest YouTube Videos 📺
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I Turned My DevSecOps Guide Into a Full Learning Platform Using AI](https://www.youtube.com/watch?v=-9jZrH8c5HA)
 - [Legal Background to Cloud Engineering: What It Really Takes](https://www.youtube.com/watch?v=mlIePKsqa-4)
 - [Do This to Become a Cloud Security Engineer in 2026](https://www.youtube.com/watch?v=gxxapwXIQpU)
 - [Azure Security for Beginners: IAM, Defender, Sentinel &amp; Career Advice](https://www.youtube.com/watch?v=2CGTMuTQoaE)
 - [Getting Hired in Cybersecurity Was NOT Easy &lpar;My 2025 Job Hunt Story&rpar;](https://www.youtube.com/watch?v=KT3hWAOTbwI)
-- [Build a Kubernetes Cluster on Raspberry Pi — The Cheap Way](https://www.youtube.com/watch?v=rYDK8SN1hnE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCOSYuY_e_r5GtVdlCVwY83Q)
