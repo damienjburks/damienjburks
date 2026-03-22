@@ -61,9 +61,9 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/devsecblueprint/devsecblueprint/pull/101) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. ❗️ Closed issue [#97](https://github.com/devsecblueprint/devsecblueprint/issues/97) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-3. ❌ Merged PR [#100](https://github.com/devsecblueprint/devsecblueprint/pull/100) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. 💪 Opened PR [#100](https://github.com/devsecblueprint/devsecblueprint/pull/100) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. ❗️ Assigned issue [#97](https://github.com/devsecblueprint/devsecblueprint/issues/97) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. ❗️ Closed issue [#82](https://github.com/devsecblueprint/devsecblueprint/issues/82) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. ❌ Merged PR [#101](https://github.com/devsecblueprint/devsecblueprint/pull/101) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+3. 💪 Opened PR [#101](https://github.com/devsecblueprint/devsecblueprint/pull/101) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+4. ❗️ Closed issue [#97](https://github.com/devsecblueprint/devsecblueprint/issues/97) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+5. ❌ Merged PR [#100](https://github.com/devsecblueprint/devsecblueprint/pull/100) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
