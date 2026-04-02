@@ -61,9 +61,9 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Assigned issue [#111](https://github.com/devsecblueprint/devsecblueprint/issues/111) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. ❗️ Labeled issue [#111](https://github.com/devsecblueprint/devsecblueprint/issues/111) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-3. ❗️ Opened issue [#111](https://github.com/devsecblueprint/devsecblueprint/issues/111) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. 🗣 Commented on [#110](https://github.com/devsecblueprint/devsecblueprint/issues/110) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. ❗️ Assigned issue [#110](https://github.com/devsecblueprint/devsecblueprint/issues/110) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. ❗️ Labeled issue [#111](https://github.com/devsecblueprint/devsecblueprint/issues/111) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. ❗️ Assigned issue [#111](https://github.com/devsecblueprint/devsecblueprint/issues/111) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+3. ❗️ Labeled issue [#111](https://github.com/devsecblueprint/devsecblueprint/issues/111) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+4. ❗️ Opened issue [#111](https://github.com/devsecblueprint/devsecblueprint/issues/111) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+5. 🗣 Commented on [#110](https://github.com/devsecblueprint/devsecblueprint/issues/110) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
