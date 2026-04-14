@@ -61,9 +61,9 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Assigned issue [#114](https://github.com/devsecblueprint/devsecblueprint/issues/114) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. ❗️ Assigned issue [#114](https://github.com/devsecblueprint/devsecblueprint/issues/114) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-3. ❗️ Labeled issue [#114](https://github.com/devsecblueprint/devsecblueprint/issues/114) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. ❗️ Labeled issue [#114](https://github.com/devsecblueprint/devsecblueprint/issues/114) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. 🗣 Commented on [#114](https://github.com/devsecblueprint/devsecblueprint/issues/114) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. 🗣 Commented on [#16](https://github.com/devsecblueprint/python-fastapi/issues/16) in [devsecblueprint/python-fastapi](https://github.com/devsecblueprint/python-fastapi)
+3. ❗️ Assigned issue [#114](https://github.com/devsecblueprint/devsecblueprint/issues/114) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+4. ❗️ Assigned issue [#114](https://github.com/devsecblueprint/devsecblueprint/issues/114) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 5. ❗️ Labeled issue [#114](https://github.com/devsecblueprint/devsecblueprint/issues/114) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
