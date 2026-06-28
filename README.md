@@ -61,9 +61,9 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#149](https://github.com/devsecblueprint/devsecblueprint/pull/149) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. ❗️ Closed issue [#108](https://github.com/devsecblueprint/devsecblueprint/issues/108) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-3. 💪 Opened PR [#149](https://github.com/devsecblueprint/devsecblueprint/pull/149) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. 🗣 Commented on [#17](https://github.com/devsecblueprint/python-fastapi/issues/17) in [devsecblueprint/python-fastapi](https://github.com/devsecblueprint/python-fastapi)
-5. 🗣 Commented on [#147](https://github.com/devsecblueprint/devsecblueprint/issues/147) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. 🗣 Commented on [#109](https://github.com/devsecblueprint/devsecblueprint/issues/109) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. ❌ Merged PR [#149](https://github.com/devsecblueprint/devsecblueprint/pull/149) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+3. ❗️ Closed issue [#108](https://github.com/devsecblueprint/devsecblueprint/issues/108) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+4. 💪 Opened PR [#149](https://github.com/devsecblueprint/devsecblueprint/pull/149) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+5. 🗣 Commented on [#17](https://github.com/devsecblueprint/python-fastapi/issues/17) in [devsecblueprint/python-fastapi](https://github.com/devsecblueprint/python-fastapi)
 <!--END_SECTION:activity-->
