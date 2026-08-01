@@ -61,9 +61,9 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#169](https://github.com/devsecblueprint/devsecblueprint/issues/169) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. ❗️ Labeled issue [#169](https://github.com/devsecblueprint/devsecblueprint/issues/169) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-3. ❗️ Assigned issue [#169](https://github.com/devsecblueprint/devsecblueprint/issues/169) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-4. 🗣 Commented on [#169](https://github.com/devsecblueprint/devsecblueprint/issues/169) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. ❌ Merged PR [#2](https://github.com/devsecblueprint/azure-storage-public-exposure-detective-control/pull/2) in [devsecblueprint/azure-storage-public-exposure-detective-control](https://github.com/devsecblueprint/azure-storage-public-exposure-detective-control)
+1. ❗️ Closed issue [#169](https://github.com/devsecblueprint/devsecblueprint/issues/169) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. 🗣 Commented on [#169](https://github.com/devsecblueprint/devsecblueprint/issues/169) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+3. ❗️ Labeled issue [#169](https://github.com/devsecblueprint/devsecblueprint/issues/169) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+4. ❗️ Labeled issue [#169](https://github.com/devsecblueprint/devsecblueprint/issues/169) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+5. ❗️ Assigned issue [#169](https://github.com/devsecblueprint/devsecblueprint/issues/169) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
