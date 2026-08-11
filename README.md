@@ -61,9 +61,9 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#44](https://github.com/devsecblueprint/the-herald/issues/44) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-2. ❗️ Labeled issue [#44](https://github.com/devsecblueprint/the-herald/issues/44) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-3. ❗️ Labeled issue [#44](https://github.com/devsecblueprint/the-herald/issues/44) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-4. ❗️ Labeled issue [#44](https://github.com/devsecblueprint/the-herald/issues/44) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-5. ❗️ Labeled issue [#44](https://github.com/devsecblueprint/the-herald/issues/44) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+1. 🗣 Commented on [#175](https://github.com/devsecblueprint/devsecblueprint/issues/175) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. ❗️ Assigned issue [#175](https://github.com/devsecblueprint/devsecblueprint/issues/175) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+3. ❗️ Labeled issue [#178](https://github.com/devsecblueprint/devsecblueprint/issues/178) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+4. ❗️ Labeled issue [#178](https://github.com/devsecblueprint/devsecblueprint/issues/178) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+5. ❗️ Labeled issue [#178](https://github.com/devsecblueprint/devsecblueprint/issues/178) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
