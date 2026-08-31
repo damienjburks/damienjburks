@@ -33,11 +33,11 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 ## Latest YouTube Videos 📺
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Want to break into DevSecOps or Cloud Security?](https://www.youtube.com/shorts/2SuNJExqZEk)
 - [DSB members are turning hands-on learning into real career opportunities.](https://www.youtube.com/shorts/cUtCTLUKJ5c)
 - [Life Update: Where I’ve Been &amp; What’s Next for The DevSec Blueprint](https://www.youtube.com/watch?v=qLur9XXPWe0)
 - [I Turned My DevSecOps Guide Into a Full Learning Platform Using AI](https://www.youtube.com/watch?v=-9jZrH8c5HA)
 - [Legal Background to Cloud Engineering: What It Really Takes](https://www.youtube.com/watch?v=mlIePKsqa-4)
-- [Do This to Become a Cloud Security Engineer in 2026](https://www.youtube.com/watch?v=gxxapwXIQpU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCOSYuY_e_r5GtVdlCVwY83Q)
