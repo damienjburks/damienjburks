@@ -61,9 +61,9 @@ If you want to learn more about me and what I do, check out my website: [Damien 
 
 ## My Recent Activity 🧑‍💻
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/devsecblueprint/devsecblueprint/issues/173) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. ❗️ Closed issue [#173](https://github.com/devsecblueprint/devsecblueprint/issues/173) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-3. 🗣 Commented on [#33](https://github.com/devsecblueprint/the-herald/issues/33) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
-4. 🗣 Commented on [#173](https://github.com/devsecblueprint/devsecblueprint/issues/173) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. 🗣 Commented on [#175](https://github.com/devsecblueprint/devsecblueprint/issues/175) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. 🗣 Commented on [#211](https://github.com/devsecblueprint/devsecblueprint/issues/211) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+2. 🗣 Commented on [#173](https://github.com/devsecblueprint/devsecblueprint/issues/173) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+3. ❗️ Closed issue [#173](https://github.com/devsecblueprint/devsecblueprint/issues/173) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+4. 🗣 Commented on [#33](https://github.com/devsecblueprint/the-herald/issues/33) in [devsecblueprint/the-herald](https://github.com/devsecblueprint/the-herald)
+5. 🗣 Commented on [#173](https://github.com/devsecblueprint/devsecblueprint/issues/173) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
